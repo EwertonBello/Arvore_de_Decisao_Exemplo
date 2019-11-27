@@ -1,6 +1,6 @@
 from sklearn import tree
 
-#### CARACTERÍSTICAS ####
+##### CARACTERÍSTICAS #####
 animais = {
 	'cachorro':0,
 	'gato':1,
